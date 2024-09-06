@@ -1,0 +1,16 @@
+{
+   "fileLocations": [
+       {
+           "URIs": [
+               "s3://covid-data-19/owid-covid-data.csv"
+           ]
+       }
+   ],
+   "globalUploadSettings": {
+       "format": "CSV",
+       "delimiter": ",",
+       "textqualifier": "\"",
+       "containsHeader": "true"
+   }
+}
+

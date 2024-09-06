@@ -1,0 +1,16 @@
+{
+   "fileLocations": [
+       {
+           "URIs": [
+               "s3://covid-data-19/countries_codes_and_coordinates.csv"
+           ]
+       }
+   ],
+   "globalUploadSettings": {
+       "format": "CSV",
+       "delimiter": ",",
+       "textqualifier": "\"",
+       "containsHeader": "true"
+   }
+}
+
